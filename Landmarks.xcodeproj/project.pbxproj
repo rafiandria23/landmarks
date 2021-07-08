@@ -151,10 +151,6 @@
 		D302700E264811D9004656C4 = {
 			isa = PBXGroup;
 			children = (
-				D35CC6822648745000886252 /* Helpers */,
-				D35CC679264837A800886252 /* Models */,
-				D35CC6782648379E00886252 /* Views */,
-				D35CC6772648379500886252 /* Resources */,
 				D3027019264811D9004656C4 /* Landmarks */,
 				D302702B264811E0004656C4 /* LandmarksTests */,
 				D3027036264811E0004656C4 /* LandmarksUITests */,
@@ -175,6 +171,10 @@
 		D3027019264811D9004656C4 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
+				D35CC6822648745000886252 /* Helpers */,
+				D35CC679264837A800886252 /* Models */,
+				D35CC6782648379E00886252 /* Views */,
+				D35CC6772648379500886252 /* Resources */,
 				D302701A264811D9004656C4 /* LandmarksApp.swift */,
 				D302701E264811E0004656C4 /* Assets.xcassets */,
 				D3027023264811E0004656C4 /* Info.plist */,
