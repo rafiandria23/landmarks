@@ -1,2 +1,3 @@
-# swiftui-tutorial-landmarks
-SwiftUI Tutorial - Landmarks
+# Landmarks
+
+SwiftUI Tutorial
