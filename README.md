@@ -1,1 +1,3 @@
-# SwiftUI Tutorial - Landmarks
+# Landmarks
+
+SwiftUI Tutorial
