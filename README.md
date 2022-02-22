@@ -1,3 +1,3 @@
 # Landmarks
 
-SwiftUI Tutorial
+SwiftUI Tutorial - iOS App for Landmark Directory across the United States
